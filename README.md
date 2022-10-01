@@ -11,4 +11,4 @@
 
 ---
 ### Watch my contribution graph get eaten by the snake 🐍
-![github contribution grid snake animation](https://raw.githubusercontent.com/alperunal92/alperunal92/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+(https://raw.githubusercontent.com/alperunal92/alperunal92/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
