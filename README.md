@@ -10,3 +10,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alperunal92&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+### Watch my contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/alperunal92/alperunal92/blob/output/github-contribution-grid-snake.gif)
