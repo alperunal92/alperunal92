@@ -7,7 +7,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperunal92&show_icons=true&locale=en&layout=compact" alt="alperunal92" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperunal92&show_icons=true&locale=en" alt="alperunal92" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alperunal92&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="alperunal92" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperunal92&" alt="alperunal92" /></p>
 
