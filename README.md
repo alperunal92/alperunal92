@@ -9,8 +9,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=alperunal92&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="alperunal92" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperunal92&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="alperunal92" /></p>
-
 ---
 ### Watch my contribution graph get eaten by the snake 🐍
 ![alperunal92 snake gif](https://github.com/alperunal92/alperunal92/blob/output/github-contribution-grid-snake.svg)
