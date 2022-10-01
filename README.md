@@ -10,5 +10,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alperunal92&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-<img src="https://raw.githubusercontent.com/alperunal92/alperunal92/blob/output/snake.svg" alt="Snake animation" />
